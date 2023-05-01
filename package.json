@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NikitaBondarevv/kanban-test-task.git"
+    "url": "git+https://github.com/NikitaBondarevv/todo.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NikitaBondarevv/kanban-test-task/issues"
+    "url": "https://github.com/NikitaBondarevv/todo/issues"
   },
-  "homepage": "https://github.com/NikitaBondarevv/kanban-test-task#readme",
+  "homepage": "https://github.com/NikitaBondarevv/todo#readme",
   "devDependencies": {
     "@babel/core": "^7.21.0",
     "@babel/preset-env": "^7.20.2",
